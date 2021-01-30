@@ -1,0 +1,8 @@
+[package]
+name = "bot"
+version = "0.1.0"
+authors = ["Marwane BENOU-KAÏSS <mbenoukaiss@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+automate = { git = "https://github.com/mbenoukaiss/automate" }
